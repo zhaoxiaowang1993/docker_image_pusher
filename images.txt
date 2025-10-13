@@ -6,3 +6,4 @@ langgenius/dify-sandbox
 ubuntu/squid:latest
 nginx:latest
 semitechnologies/weaviate:1.19.0
+langgenius/dify-plugin-daemon:0.3.0-local
