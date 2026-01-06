@@ -1,11 +1,2 @@
-langgenius/dify-api
-langgenius/dify-web
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
-langgenius/dify-plugin-daemon:0.3.0-local
-node:20-alpine
-python:3.10-slim
+--platform=linux/arm64 node:20-alpine
+--platform=linux/arm64 python:3.10-slim
